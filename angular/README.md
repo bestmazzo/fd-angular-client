@@ -27,20 +27,15 @@ Developers Quick Start
 **1) Create a working FD installation or access a shared RestAPI service - not necessary, see below**
 	You'd need access to a RestApi FD service, being it local or a shared remote one.
 
-	A shared RestApi service is available at **fritz.bestmazzo.it:8111**
+	A shared RestApi service is available at **fritz.bestmazzo.it:9111**
     
 **2) Fork current branch into your pc**
 
-	git clone https://github.com/bestmazzo/freedomotic.git
+	git clone https://github.com/bestmazzo/fd-angular-client.git
 
-**3) Switch to proper branch**
-
-	cd freedomotic
-	git checkout pl88
-    
 **3) Enter project root folder**
 
-   	cd clients/angular
+   	cd angular
     
 **4) Install required development extra software**
 
@@ -59,7 +54,7 @@ Development references
 
 	Base tutorial: http://docs.angularjs.org/tutorial
 
-	Developer Giude: http://docs.angularjs.org/guide
+	Developer Guide: http://docs.angularjs.org/guide
 
 	API Reference: http://docs.angularjs.org/api
 
